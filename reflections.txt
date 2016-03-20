@@ -7,3 +7,4 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+I revised a lot of the basic html syntax by completing this project.It acted as a nice refresher.So,I basically caught on with working around basic html syntax and everything was prety easy except the footnote which was quite new to me.No problem solving stratergies except search on stackoverflow were used.Really enjoyed the assignment.
